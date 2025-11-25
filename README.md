@@ -1,0 +1,2 @@
+# Ensemble-Size-vs-Latency-and-Energy-on-CPU-GPU-for-RF-Modulation-Ensembles
+Ensemble modulation classifiers promise robustness against domain shift and label noise, but each added model increases inference latency and energy consumption. For realtime RF spectrum surveillance and signal intelligence workloads, those costs directly bound how many emitters can be tracked per node and how quickly rare events can be surfaced.
